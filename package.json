@@ -1,0 +1,18 @@
+{
+  "name": "ts-handbook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "WIlliam Porto <william.porto@nave.rs>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.12.4",
+    "jest": "^27.0.5",
+    "ts-jest": "^27.0.3",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
